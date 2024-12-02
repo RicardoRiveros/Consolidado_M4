@@ -146,8 +146,6 @@ def guardar_datos_csv(*vehiculos):
 
 guardar_datos_csv(particular, carga, bicicleta, motocicleta)
     
-#FALTA AGREGAR LA PARTE DE LEER LOS DATOS DEL CSV}
-
 
 def leer_datos_csv(archivo):
     try:
